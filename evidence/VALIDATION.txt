@@ -1,0 +1,11 @@
+﻿skills_ok=37/37
+brand_ok=8/8
+workflows_ok=10/10
+handoff_ok=5/5
+claude_md=True
+product_marketing_stub=True
+skills_lock=True
+csv_hash_match=True
+face_agent_content_ts=2026-11-10T17:46:51.9594005Z
+face_agent_content_len=38394
+face_agent_not_modified_by_this_workspace=YES_READ_ONLY_COPY_ONLY

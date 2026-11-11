@@ -1,0 +1,9 @@
+﻿Chrome verification attempt: 2026-11-10T20:05:49.2783920+02:00
+claude_cli=C:\Users\Bavly\AppData\Roaming\npm\claude.ps1
+claude_version=2.1.316 (Claude Code)
+extensions_root_exists=C:\Users\Bavly\AppData\Local\Google\Chrome\User Data\Default\Extensions
+extension_dirs_count_under_root=5
+extensions_root_exists=C:\Users\Bavly\AppData\Local\Microsoft\Edge\User Data\Default\Extensions
+extension_dirs_count_under_root=5
+facebook_access=NOT_VERIFIED
+note=Non-interactive agent cannot complete /chrome handshake; user must verify in Claude Code CLI with --chrome
